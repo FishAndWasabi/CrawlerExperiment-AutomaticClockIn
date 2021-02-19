@@ -49,7 +49,7 @@
 
 ## Maintainers
 
-[@RichardLitt](https://github.com/RichardLitt).
+[@FishAndWasabi](https://github.com/FishAndWasabi).
 
 
 
